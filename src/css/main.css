@@ -1,0 +1,21 @@
+@import "https://cdn.jsdelivr.net/gh/SyderalCSS/SyderalCSS@latest/lib/dist/syderal.main.min.css" ;
+
+a{
+	text-decoration: none;
+}
+ .text-white{
+ 	color: white;
+ }
+ h1,h2,h3,h4,h5,h6{
+ 	font-style: italic;
+ 	font-weight: bold;
+ }
+ .cien{
+ 	width: 100%;
+ }
+ p{
+ 	margin-bottom: 10px;
+ }
+ .center{
+ 	text-align: center;
+ }
